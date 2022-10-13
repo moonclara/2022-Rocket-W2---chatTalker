@@ -1,0 +1,19 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    color: $secondary;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.container {
+    max-width: 1088px;
+    margin: 0 auto;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
